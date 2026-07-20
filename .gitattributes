@@ -1,0 +1,4 @@
+# This fork replaces upstream's README. Without this, every upstream README edit
+# conflicts on the daily sync. `merge=ours` keeps our version instead.
+# The driver is not built in — sync-upstream.yml sets `merge.ours.driver true`.
+README.md merge=ours
