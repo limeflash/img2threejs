@@ -1,0 +1,8 @@
+{
+  "name": "img2threejs",
+  "description": "Auto-syncing fork of hoainho/img2threejs, packaged as a Claude Code plugin.",
+  "owner": { "name": "limeflash", "url": "https://github.com/limeflash" },
+  "plugins": [
+    { "name": "img2threejs", "source": "./" }
+  ]
+}
